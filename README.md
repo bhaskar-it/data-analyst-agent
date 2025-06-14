@@ -16,4 +16,26 @@ This project is a backend-focused intelligent data analyst agent that leverages 
 > **Platform:** [Together.ai](https://www.together.ai/)
 
 ## Project Structure
+├── data_analyst_agent.py # Core backend logic
+├── app.py # Streamlit UI (optional)
+├── sample_sales_data.csv # Test CSV file
+├── SN_Mentoring.ipynb # Main notebook (Colab-compatible)
+├── README.md # You're here!
 
+
+## 🧪 How to Run (Colab)
+
+1. Install dependencies:
+```bash
+!pip install streamlit pyngrok pandas matplotlib seaborn python-docx PyMuPDF openpyxl together
+
+
+!git clone https://github.com/bhaskar-it/data-analyst-agent.git
+%cd data-analyst-agent
+
+together.api_key = "your_actual_key"
+
+
+---
+
+Let me know if you’d like a version with badges (e.g., Python version, Streamlit support) or a video/gif demo embedded.
