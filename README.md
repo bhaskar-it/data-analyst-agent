@@ -1,6 +1,12 @@
 # Data Analyst Agent (Powered by LLaMA-4 Maverick)
 
 This project is a backend-focused intelligent data analyst agent that leverages the `meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8` model via the Together API to analyze uploaded documents or datasets. It can extract insights, answer questions, and generate visualizations with minimal UI dependencies.
+## Screenshot
+
+Here is a preview of the web app:
+
+![image](https://github.com/user-attachments/assets/8b5b9468-bea0-4e13-9466-efcba64e0c7d)
+
 
 ## Features
 
