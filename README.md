@@ -15,12 +15,12 @@ This project is a backend-focused intelligent data analyst agent that leverages 
 > **Model:** `meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8`  
 > **Platform:** [Together.ai](https://www.together.ai/)
 
-## Project Structure
-├── data_analyst_agent.py # Core backend logic
-├── app.py # Streamlit UI (optional)
-├── sample_sales_data.csv # Test CSV file
-├── SN_Mentoring.ipynb # Main notebook (Colab-compatible)
-├── README.md # You're here!
+## Project Structure<br>
+├── data_analyst_agent.py # Core backend logic<br>
+├── app.py # Streamlit UI (optional)<br>
+├── sample_sales_data.csv # Test CSV file<br>
+├── SN_Mentoring.ipynb # Main notebook (Colab-compatible)<br>
+├── README.md # You're here!<br>
 
 
 ## 🧪 How to Run (Colab)
